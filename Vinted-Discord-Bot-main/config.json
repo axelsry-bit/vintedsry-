@@ -1,0 +1,39 @@
+{
+    "token": "OTU5NzQ1NjM5NTczNDkxNzIy.YkgWxw.XuRQm2Xku2MlM5c51YX_znUSaTg",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/960105113463185439/rVUUAOe3NfqTcYugahhFJXsgQTOZCWfFRJVi0ObQ-asz0_js1YgTUx4OY6HLQwK2cC6G": {
+            "url": "https://www.vinted.fr/vetements?search_text=chaussures&catalog[]=5&size_id[]=209&size_id[]=208&size_id[]=791&size_id[]=792&order=newest_first&brand_id[]=53&price_to=150&currency=EUR",
+            "salon": "chaussures"
+        },
+        "https://discord.com/api/webhooks/960105840931667999/lVm_7z5bAoXvYmGbEXFZnsFJoB1zd0KdxAB1EqOzL9RD9H0fQYdAEZkksZdT6c9VBz5Q": {
+            "url": "https://www.vinted.fr/vetements?search_text=pantalons&catalog[]=5&brand_id[]=53&size_id[]=209&size_id[]=208&order=newest_first&currency=EUR&price_to=100",
+            "salon": "pantalons"
+        },
+        "https://discord.com/api/webhooks/960106065196896306/lmtrjtir-xMIfiK8kFhT0Sg11uthZ8ty2pk2vHWsjK_waY9BnQuiNbl5HXN5cYwScfKI": {
+            "url": "https://www.vinted.fr/vetements?search_text=veste&catalog[]=5&brand_id[]=53&size_id[]=209&size_id[]=208&order=newest_first&price_to=100&currency=EUR",
+            "salon": "vestes"
+        },
+        "https://discord.com/api/webhooks/960106166061502464/Vv9EKzirzQvTdpJEXci4XEIqyYM-SqWQZkmc3dIY_HI_j4QWRxU0DAHsqWKILJZqD5k3": {
+            "url": "https://www.vinted.fr/vetements?search_text=Sweats%20%26%20Pulls&catalog[]=5&brand_id[]=53&size_id[]=209&size_id[]=208&order=newest_first&price_to=100&currency=EUR",
+            "salon": "sweats-pull"
+        },
+        "https://discord.com/api/webhooks/960113177218154496/9LwpC_rgkQfck54bRsCxstY-C5c2tCUWZuz_85LHhp6Hzh86AP5_Kpvu0aYqo9YO_srV": {
+            "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=5&size_id[]=209&size_id[]=208&order=newest_first&price_to=100&currency=EUR&brand_id[]=362",
+            "salon": "\u3014\ud83c\udf0a\u3015carhartt"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
